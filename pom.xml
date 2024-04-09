@@ -5,7 +5,8 @@
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.2.2</version>
+		<version>3.0.3</version>
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<artifactId>finalproject</artifactId>
 	<groupId>com.comp367.jrr</groupId>
